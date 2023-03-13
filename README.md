@@ -1,1 +1,1 @@
-# ihpmyApps
+# ihpMyApps
